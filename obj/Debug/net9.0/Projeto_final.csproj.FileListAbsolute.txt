@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\finalizando\Projeto_final\bin\Debug\net9.0\Projeto_final.exe
+C:\Users\user\Downloads\finalizando\Projeto_final\bin\Debug\net9.0\Projeto_final.deps.json
+C:\Users\user\Downloads\finalizando\Projeto_final\bin\Debug\net9.0\Projeto_final.runtimeconfig.json
+C:\Users\user\Downloads\finalizando\Projeto_final\bin\Debug\net9.0\Projeto_final.dll
+C:\Users\user\Downloads\finalizando\Projeto_final\bin\Debug\net9.0\Projeto_final.pdb
+C:\Users\user\Downloads\finalizando\Projeto_final\obj\Debug\net9.0\Projeto_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\finalizando\Projeto_final\obj\Debug\net9.0\Projeto_final.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\finalizando\Projeto_final\obj\Debug\net9.0\Projeto_final.AssemblyInfo.cs
+C:\Users\user\Downloads\finalizando\Projeto_final\obj\Debug\net9.0\Projeto_final.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\finalizando\Projeto_final\obj\Debug\net9.0\Projeto_final.sourcelink.json
+C:\Users\user\Downloads\finalizando\Projeto_final\obj\Debug\net9.0\Projeto_final.dll
+C:\Users\user\Downloads\finalizando\Projeto_final\obj\Debug\net9.0\refint\Projeto_final.dll
+C:\Users\user\Downloads\finalizando\Projeto_final\obj\Debug\net9.0\Projeto_final.pdb
+C:\Users\user\Downloads\finalizando\Projeto_final\obj\Debug\net9.0\Projeto_final.genruntimeconfig.cache
+C:\Users\user\Downloads\finalizando\Projeto_final\obj\Debug\net9.0\ref\Projeto_final.dll
